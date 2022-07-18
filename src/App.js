@@ -1,11 +1,11 @@
-import Hashing from './components/hashing'; // hashing component
+import Hashing from "./components/hashing"; // hashing component
 
 function App() {
-    return (
-        <div className="App">
-            <Hashing />
-        </div>
-    );
+  return (
+    <div className="App">
+      <Hashing />
+    </div>
+  );
 }
 
 export default App;
