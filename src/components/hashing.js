@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { md5, sha1, sha256, sha384, sha512 } from "crypto-hash";
+import { sha1, sha256, sha384, sha512 } from "crypto-hash";
 import "./hashing.css";
 
 export default function HashingForm() {
